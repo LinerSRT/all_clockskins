@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>Back_2.png</name>
+	</drawable>
+	<drawable>
+		<name>BALL.png</name>
+		<centerY>-4</centerY>
+	</drawable>
+	<drawable>
+		<name>Model_5.png</name>
+	</drawable>
+	<drawable>
+		<name>Back_5.png</name>
+	</drawable>
+	<drawable>
+		<name>Back_4.png</name>
+	</drawable>
+	<drawable>
+		<name>HH_2.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>MH_2.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>SH_2.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>TEXT.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='2.0.0.2'/>
+-->
+</clockskin>

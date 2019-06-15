@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<drawables>
+	<image>WE_sun.png</image>
+	<image>WE_mon.png</image>
+	<image>WE_tue.png</image>
+	<image>WE_wed.png</image>
+	<image>WE_thu.png</image>
+	<image>WE_fri.png</image>
+	<image>WE_sat.png</image>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0' type='array_weekday' autoscale='1' font='华康少女文字W5' fontstyle='Regular' fontsize='24'>
+<content>日</content>
+<content>一</content>
+<content>二</content>
+<content>三</content>
+<content>四</content>
+<content>五</content>
+<content>六</content>
+</metadata>
+-->
+</drawables>

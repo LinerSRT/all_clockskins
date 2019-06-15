@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>BASE.png</name>
+	</drawable>
+	<drawable>
+		<name>HM.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-47</centerX>
+		<centerY>-102</centerY>
+	</drawable>
+	<drawable>
+		<name>WD.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>-98</centerX>
+		<centerY>92</centerY>
+	</drawable>
+	<drawable>
+		<name>M.xml</name>
+		<arraytype>3</arraytype>
+		<centerX>2</centerX>
+		<centerY>92</centerY>
+	</drawable>
+	<drawable>
+		<name>D.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>1</centerX>
+		<centerY>150</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='2.0.0.2'/>
+-->
+</clockskin>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>VCXBCV.png</name>
+	</drawable>
+	<drawable>
+		<name>1_1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-41</centerX>
+		<centerY>61</centerY>
+	</drawable>
+	<drawable>
+		<name>y_2.xml</name>
+		<arraytype>1</arraytype>
+		<centerX>5</centerX>
+		<centerY>120</centerY>
+	</drawable>
+	<drawable>
+		<name>DSGFDHG_1.png</name>
+		<rotate>3</rotate>
+		<centerX>132</centerX>
+		<centerY>-18</centerY>
+		<mulrotate>3</mulrotate>
+	</drawable>
+	<drawable>
+		<name>DSGFDHG.png</name>
+		<rotate>3</rotate>
+		<centerX>-142</centerX>
+		<centerY>-16</centerY>
+		<direction>2</direction>
+		<mulrotate>5</mulrotate>
+	</drawable>
+	<drawable>
+		<name>1.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>91</centerX>
+		<centerY>61</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

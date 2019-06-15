@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>di.png</name>
+	</drawable>
+	<drawable>
+		<name>gdfsh.png</name>
+		<rotate>10</rotate>
+	</drawable>
+	<drawable>
+		<name>h.xml</name>
+		<arraytype>7</arraytype>
+		<centerX>-50</centerX>
+		<centerY>-10</centerY>
+	</drawable>
+	<drawable>
+		<name>m.xml</name>
+		<arraytype>8</arraytype>
+		<centerX>35</centerX>
+		<centerY>-10</centerY>
+	</drawable>
+	<drawable>
+		<name>week.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>-40</centerX>
+		<centerY>40</centerY>
+	</drawable>
+	<drawable>
+		<name>day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>30</centerX>
+		<centerY>40</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

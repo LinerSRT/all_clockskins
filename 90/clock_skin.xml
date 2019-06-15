@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>d.png</name>
+	</drawable>
+	<drawable>
+		<name>hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>second.png</name>
+		<rotate>3</rotate>
+		<centerY>100</centerY>
+	</drawable>
+	<drawable>
+		<name>day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>135</centerX>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

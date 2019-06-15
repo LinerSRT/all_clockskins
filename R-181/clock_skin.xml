@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>gvzfxhgfc.png</name>
+	</drawable>
+	<drawable>
+		<name>fhfgh_1.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>4</centerX>
+		<centerY>92</centerY>
+	</drawable>
+	<drawable>
+		<name>fhfgh_2.png</name>
+		<rotate>3</rotate>
+		<centerX>-20</centerX>
+		<centerY>147</centerY>
+		<mulrotate>8</mulrotate>
+	</drawable>
+	<drawable>
+		<name>fhfgh_3.png</name>
+		<rotate>3</rotate>
+		<centerX>322</centerX>
+		<centerY>1</centerY>
+		<mulrotate>8</mulrotate>
+	</drawable>
+	<drawable>
+		<name>vxzcbcvb.png</name>
+		<rotate>3</rotate>
+		<centerX>-640</centerX>
+		<centerY>622</centerY>
+		<mulrotate>8</mulrotate>
+	</drawable>
+	<drawable>
+		<name>xvczxCvzx.png</name>
+		<rotate>3</rotate>
+		<centerX>295</centerX>
+		<centerY>361</centerY>
+		<direction>1</direction>
+		<mulrotate>7</mulrotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

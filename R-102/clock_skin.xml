@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>d.png</name>
+	</drawable>
+	<drawable>
+		<name>day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>120</centerX>
+	</drawable>
+	<drawable>
+		<name>week.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>80</centerX>
+	</drawable>
+	<drawable>
+		<name>img22920.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>img22922.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>img22925.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>sdaF.png</name>
+	</drawable>
+	<drawable>
+		<name>1_1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-40</centerX>
+		<centerY>24</centerY>
+	</drawable>
+	<drawable>
+		<name>1.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>104</centerX>
+		<centerY>25</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

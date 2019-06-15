@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>safsd.png</name>
+	</drawable>
+	<drawable>
+		<arraytype>99</arraytype>
+		<centerX>-20</centerX>
+		<centerY>139</centerY>
+	</drawable>
+	<drawable>
+		<name>q3.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>q2.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>q1.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

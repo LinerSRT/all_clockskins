@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+  <drawable>
+    <name>clock_skin_panel.png</name>
+  </drawable>
+  <drawable>
+    <name>hour_minute_array.xml</name>
+    <arraytype>6</arraytype>
+    <centerY>-100</centerY>
+  </drawable>
+  <drawable>
+    <name>weekday_array.xml</name>
+    <arraytype>5</arraytype>
+    <centerX>-44</centerX>
+    <centerY>-34</centerY>
+  </drawable>
+  <drawable>
+    <name>month_day_array.xml</name>
+    <arraytype>2</arraytype>
+    <centerX>38</centerX>
+    <centerY>-34</centerY>
+  </drawable>
+  <drawable>
+    <name>battery_array.xml</name>
+    <arraytype>17</arraytype>
+    <centerX>90</centerX>
+    <centerY>50</centerY>
+    <colorarray>292929,00D477</colorarray>
+  </drawable>
+  <drawable>
+    <name>num_array.xml</name>
+    <arraytype>13</arraytype>
+    <centerY>135</centerY>
+  </drawable>
+  <drawable>
+    <name>num_array.xml</name>
+    <arraytype>18</arraytype>
+    <centerX>-80</centerX>
+    <centerY>50</centerY>
+    <colorarray>292929,00D477</colorarray>
+  </drawable>
+  <drawable>
+    <arraytype>99</arraytype>
+    <centerX>-20</centerX>
+    <centerY>-165</centerY>
+  </drawable>
+  <drawable>
+    <name>weather_array.xml</name>
+    <arraytype>10</arraytype>
+    <centerX>3</centerX>
+    <centerY>17</centerY>
+  </drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.0.1.0'/>
+-->
+</clockskin>

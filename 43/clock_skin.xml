@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>stars1_2.png</name>
+		<rotate>3</rotate>
+		<mulrotate>-1</mulrotate>
+	</drawable>
+	<drawable>
+		<name>starsblank.png</name>
+	</drawable>
+	<drawable>
+		<name>clock_dial.png</name>
+	</drawable>
+	<drawable>
+		<name>.img15271.png</name>
+		<centerX>18</centerX>
+		<centerY>-97</centerY>
+	</drawable>
+	<drawable>
+		<name>flying_saucer_stock_photo_png_by_annamae22-d7vedqd1.png</name>
+		<rotate>10</rotate>
+		<centerX>-30</centerX>
+		<centerY>225</centerY>
+		<direction>2</direction>
+		<mulrotate>4</mulrotate>
+	</drawable>
+	<drawable>
+		<name>.img15272.png</name>
+		<centerX>-102</centerX>
+		<centerY>-2</centerY>
+	</drawable>
+	<drawable>
+		<name>.img15273.png</name>
+		<centerX>140</centerX>
+		<centerY>-16</centerY>
+	</drawable>
+	<drawable>
+		<name>hand_hour_22.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>hand_minute_22.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>.img15274high.png</name>
+		<rotate>3</rotate>
+		<centerX>123</centerX>
+		<centerY>407</centerY>
+		<angle>-11</angle>
+		<mulrotate>-3</mulrotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.1.0.0'/>
+-->
+</clockskin>

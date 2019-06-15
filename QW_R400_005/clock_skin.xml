@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>BASE_BLACK.png</name>
+	</drawable>
+	<drawable>
+		<name>SH.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>BASE.png</name>
+		<centerY>13</centerY>
+	</drawable>
+	<drawable>
+		<name>HM.xml</name>
+		<arraytype>6</arraytype>
+		<centerY>-92</centerY>
+	</drawable>
+	<drawable>
+		<name>RING.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='2.0.0.2'/>
+-->
+</clockskin>

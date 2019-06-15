@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>DI.png</name>
+	</drawable>
+	<drawable>
+		<name>bar.png</name>
+		<rotate>6</rotate>
+		<centerY>-80</centerY>
+		<angle>-70</angle>
+		<startAngle>220</startAngle>
+	</drawable>
+	<drawable>
+		<name>hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>FCH.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>CVBNV.png</name>
+		<rotate>2</rotate>
+		<centerY>72</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

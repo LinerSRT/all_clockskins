@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>zVFxz.png</name>
+	</drawable>
+	<drawable>
+		<name>CZXVZXCV.png</name>
+		<rotate>3</rotate>
+		<centerX>-1</centerX>
+		<centerY>-40</centerY>
+		<mulrotate>3</mulrotate>
+	</drawable>
+	<drawable>
+		<name>yyy.xml</name>
+		<arraytype>1</arraytype>
+		<centerY>78</centerY>
+	</drawable>
+	<drawable>
+		<name>W.xml</name>
+		<arraytype>5</arraytype>
+		<centerY>154</centerY>
+	</drawable>
+	<drawable>
+		<name>hjkl_1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-22</centerX>
+		<centerY>117</centerY>
+	</drawable>
+	<drawable>
+		<name>hjkl.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>35</centerX>
+		<centerY>117</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

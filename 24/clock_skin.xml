@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>clock_skin_panel_bg.png</name>
+	</drawable>
+	<drawable>
+		<name>clock_skin_minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_panel.png</name>
+	</drawable>
+	<drawable>
+		<name>time_array.xml</name>
+		<arraytype>9</arraytype>
+		<centerY>1</centerY>
+	</drawable>
+	<drawable>
+		<name>weekday_array.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>-9</centerX>
+		<centerY>-34</centerY>
+	</drawable>
+	<drawable>
+		<name>day_array.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>15</centerX>
+		<centerY>-34</centerY>
+	</drawable>
+	<drawable>
+		<name>battery_array.xml</name>
+		<arraytype>14</arraytype>
+		<centerY>37</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.2.1.0'/>
+-->
+</clockskin>

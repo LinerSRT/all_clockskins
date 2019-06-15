@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>android1.png</name>
+		<centerY>1</centerY>
+	</drawable>
+	<drawable>
+		<name>weather_array.xml</name>
+		<arraytype>10</arraytype>
+		<centerX>-96</centerX>
+		<centerY>-55</centerY>
+	</drawable>
+	<drawable>
+		<name>temp_array.xml</name>
+		<arraytype>11</arraytype>
+		<centerX>96</centerX>
+		<centerY>-55</centerY>
+	</drawable>
+	<drawable>
+		<name>weekday_array.xml</name>
+		<arraytype>5</arraytype>
+		<centerY>-128</centerY>
+	</drawable>
+	<drawable>
+		<name>year_month_day_array.xml</name>
+		<arraytype>2</arraytype>
+		<centerY>-96</centerY>
+	</drawable>
+	<drawable>
+		<name>battery_array.xml</name>
+		<arraytype>14</arraytype>
+		<centerX>93</centerX>
+		<centerY>65</centerY>
+	</drawable>
+	<drawable>
+		<name>hearth_array.xml</name>
+		<arraytype>13</arraytype>
+		<centerX>-96</centerX>
+		<centerY>60</centerY>
+	</drawable>
+	<drawable>
+		<name>heartsmall.png</name>
+		<centerX>-96</centerX>
+		<centerY>30</centerY>
+	</drawable>
+	<drawable>
+		<name>battsmall.png</name>
+		<centerX>96</centerX>
+		<centerY>30</centerY>
+	</drawable>
+	<drawable>
+		<name>moon_phase.xml</name>
+		<arraytype>19</arraytype>
+		<centerY>110</centerY>
+	</drawable>
+	<drawable>
+		<name>seconds.png</name>
+		<rotate>3</rotate>
+		<centerY>110</centerY>
+	</drawable>
+	<drawable>
+		<name>y1112.png</name>
+		<centerX>-4</centerX>
+		<centerY>107</centerY>
+	</drawable>
+	<drawable>
+		<name>hours.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>minutes.png</name>
+		<rotate>2</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.1.0.0'/>
+-->
+</clockskin>

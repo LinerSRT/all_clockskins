@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+  <drawable>
+    <name>swirl1.png</name>
+    <rotate>3</rotate>
+    <mulrotate>4</mulrotate>
+  </drawable>
+  <drawable>
+    <name>swirl2.png</name>
+    <rotate>3</rotate>
+    <mulrotate>3</mulrotate>
+  </drawable>
+  <drawable>
+    <name>swirl4.png</name>
+    <rotate>3</rotate>
+    <mulrotate>2</mulrotate>
+  </drawable>
+  <drawable>
+    <name>swirl3.png</name>
+    <rotate>3</rotate>
+    <mulrotate>2</mulrotate>
+  </drawable>
+  <drawable>
+    <arraytype>99</arraytype>
+    <centerX>-27</centerX>
+    <centerY>107</centerY>
+  </drawable>
+  <drawable>
+    <name>clock_skin_hour.png</name>
+    <rotate>1</rotate>
+  </drawable>
+  <drawable>
+    <name>clock_skin_minute.png</name>
+    <rotate>2</rotate>
+  </drawable>
+  <drawable>
+    <name>clock_skin_second.png</name>
+    <rotate>3</rotate>
+    <direction>1</direction>
+  </drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.0.1.0'/>
+-->
+</clockskin>

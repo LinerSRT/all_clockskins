@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>dshfj.png</name>
+	</drawable>
+	<drawable>
+		<name>d.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>-3</centerX>
+		<centerY>104</centerY>
+	</drawable>
+	<drawable>
+		<name>3.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>2.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>1.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

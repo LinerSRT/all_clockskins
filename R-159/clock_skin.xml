@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>dfysfd.png</name>
+	</drawable>
+	<drawable>
+		<name>fdhsdh.png</name>
+		<rotate>3</rotate>
+		<centerX>2</centerX>
+		<centerY>-133</centerY>
+		<mulrotate>7</mulrotate>
+	</drawable>
+	<drawable>
+		<name>hh.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>mm.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>s.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

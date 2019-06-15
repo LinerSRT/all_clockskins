@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>BASE.png</name>
+	</drawable>
+	<drawable>
+		<name>SH.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>Hourmin.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-79</centerX>
+	</drawable>
+	<drawable>
+		<name>WD.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>-72</centerX>
+		<centerY>-24</centerY>
+	</drawable>
+	<drawable>
+		<name>DAY.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>-23</centerX>
+		<centerY>-144</centerY>
+	</drawable>
+	<drawable>
+		<name>TEXT.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='2.0.0.2'/>
+-->
+</clockskin>

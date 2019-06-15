@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>33.png</name>
+	</drawable>
+	<drawable>
+		<name>hm.xml</name>
+		<arraytype>7</arraytype>
+		<centerX>-2</centerX>
+	</drawable>
+	<drawable>
+		<name>minute_array_1_1.xml</name>
+		<arraytype>8</arraytype>
+		<centerY>-115</centerY>
+	</drawable>
+	<drawable>
+		<name>sc.png</name>
+		<rotate>10</rotate>
+	</drawable>
+	<drawable>
+		<name>minute_array_1.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>99</centerX>
+		<centerY>77</centerY>
+	</drawable>
+	<drawable>
+		<name>weather_array.xml</name>
+		<arraytype>10</arraytype>
+		<centerX>-100</centerX>
+		<centerY>77</centerY>
+	</drawable>
+	<drawable>
+		<name>tt.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<drawables>
+	<image>M_jan.png</image>
+	<image>M_feb.png</image>
+	<image>M_mar.png</image>
+	<image>M_apr.png</image>
+	<image>M_may.png</image>
+	<image>M_jun.png</image>
+	<image>M_jul.png</image>
+	<image>M_aug.png</image>
+	<image>M_sep.png</image>
+	<image>M_oct.png</image>
+	<image>M_nov.png</image>
+	<image>M_dec.png</image>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='2.0.0.2' type='array_month' forecolor='FFFF00' autoscale='1' font='Times New Roman' fontstyle='Regular' fontsize='13,34746'>
+<content>янв</content>
+<content>фев</content>
+<content>мар</content>
+<content>апр</content>
+<content>май</content>
+<content>июн</content>
+<content>июл</content>
+<content>авг</content>
+<content>сен</content>
+<content>окт</content>
+<content>ноя</content>
+<content>дек</content>
+</metadata>
+-->
+</drawables>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>gdfhd.png</name>
+	</drawable>
+	<drawable>
+		<name>H.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>M.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>S.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>w.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>4</centerX>
+		<centerY>122</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clockskin>
+  <drawable>
+    <name>clock_skin_panel.png</name>
+  </drawable>
+   <drawable>
+    <name>weekday_array.xml</name>
+    <centerY>-82</centerY>
+    <arraytype>5</arraytype>
+  </drawable>
+  <drawable>
+    <name>monthday_array.xml</name>
+    <centerY>123</centerY>
+    <arraytype>4</arraytype>
+  </drawable>
+  <drawable>
+    <name>clock_skin_second.png</name>
+    <rotate>3</rotate>
+  </drawable>
+  <drawable>
+    <name>clock_skin_minute.png</name>
+    <rotate>2</rotate>
+  </drawable>
+  <drawable>
+    <name>clock_skin_hour.png</name>
+    <rotate>1</rotate>
+  </drawable>
+</clockskin>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>clock_skin_panel.png</name>
+	</drawable>
+	<drawable>
+		<name>vynil.png</name>
+		<rotate>3</rotate>
+		<direction>1</direction>
+		<mulrotate>5</mulrotate>
+	</drawable>
+	<drawable>
+		<name>light.png</name>
+		<rotate>3</rotate>
+		<direction>1</direction>
+		<mulrotate>2</mulrotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_hour_shadow.png</name>
+		<rotate>8</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_minute_shadow.png</name>
+		<rotate>9</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>jogwheel2.png</name>
+	</drawable>
+	<drawable>
+		<name>time_array.xml</name>
+		<arraytype>9</arraytype>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.2.0.0'/>
+-->
+</clockskin>

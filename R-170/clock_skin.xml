@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>sfdgfd.png</name>
+	</drawable>
+	<drawable>
+		<arraytype>99</arraytype>
+		<centerX>-22</centerX>
+		<centerY>86</centerY>
+	</drawable>
+	<drawable>
+		<name>dsfdsg.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>gdfgds.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>fbgfxch.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>d.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>122</centerX>
+		<centerY>-1</centerY>
+	</drawable>
+	<drawable>
+		<name>sfgdfg.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

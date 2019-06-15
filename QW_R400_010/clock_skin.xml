@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>BASE_3.png</name>
+	</drawable>
+	<drawable>
+		<name>WD.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>98</centerX>
+		<centerY>125</centerY>
+	</drawable>
+	<drawable>
+		<name>Hourmin.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>119</centerX>
+		<centerY>-4</centerY>
+	</drawable>
+	<drawable>
+		<name>M.xml</name>
+		<arraytype>3</arraytype>
+		<centerX>4</centerX>
+		<centerY>10</centerY>
+	</drawable>
+	<drawable>
+		<name>DAY.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>43</centerX>
+		<centerY>-139</centerY>
+	</drawable>
+	<drawable>
+		<name>RING.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='2.0.0.2'/>
+-->
+</clockskin>

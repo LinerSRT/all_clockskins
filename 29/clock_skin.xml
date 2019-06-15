@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+  <drawable>
+    <name>benrus.png</name>
+  </drawable>
+  <drawable>
+    <name>hours.png</name>
+    <rotate>1</rotate>
+  </drawable>
+  <drawable>
+    <name>minutes.png</name>
+    <rotate>2</rotate>
+  </drawable>
+  <drawable>
+    <name>sub-dials.png</name>
+    <rotate>3</rotate>
+    <centerX>3</centerX>
+    <centerY>94</centerY>
+  </drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.0.1.0'/>
+-->
+</clockskin>

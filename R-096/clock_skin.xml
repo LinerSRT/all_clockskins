@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>D.png</name>
+	</drawable>
+	<drawable>
+		<name>hour_dim.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>minute_dim.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>second.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>week.xml</name>
+		<arraytype>5</arraytype>
+		<centerY>90</centerY>
+	</drawable>
+	<drawable>
+		<name>weather_array.xml</name>
+		<arraytype>10</arraytype>
+		<centerY>-100</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

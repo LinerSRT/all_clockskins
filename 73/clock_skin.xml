@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>di.png</name>
+	</drawable>
+	<drawable>
+		<name>hm.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-5</centerX>
+	</drawable>
+	<drawable>
+		<name>weather_array.xml</name>
+		<arraytype>10</arraytype>
+		<centerY>-120</centerY>
+	</drawable>
+	<drawable>
+		<name>weekday_array.xml</name>
+		<arraytype>5</arraytype>
+		<centerY>117</centerY>
+	</drawable>
+	<drawable>
+		<name>image1.png</name>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

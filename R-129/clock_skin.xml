@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>DI.png</name>
+	</drawable>
+	<drawable>
+		<name>week.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>78</centerX>
+		<centerY>-1</centerY>
+	</drawable>
+	<drawable>
+		<name>9c7e3c2fcfa143ef9aba2697289f6db1.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>60f4a0a8f97641dd87ee55862dc96519.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>second27.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

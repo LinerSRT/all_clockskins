@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin> 
+	<drawable>
+		<name>clock_skin_panel.png</name>
+	</drawable>
+	<drawable>
+		<name>day_array.xml</name>
+		<centerX>137</centerX>
+		<centerY>-1</centerY>
+		<arraytype>4</arraytype>
+	</drawable>
+	<drawable>
+		<name>clock_skin_hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_second.png</name>
+		<rotate>3</rotate>
+	</drawable>
+        <drawable>
+		<centerX>-25</centerX>
+		<centerY>-50</centerY>
+		<arraytype>99</arraytype>
+	</drawable>
+
+	</clockskin>

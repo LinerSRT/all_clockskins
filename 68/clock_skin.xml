@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>back_1.png</name>
+	</drawable>
+	<drawable>
+		<arraytype>99</arraytype>
+		<centerX>-25</centerX>
+		<centerY>119</centerY>
+	</drawable>
+	<drawable>
+		<name>DMH.png</name>
+		<rotate>2</rotate>
+		<centerX>86</centerX>
+		<centerY>15</centerY>
+	</drawable>
+	<drawable>
+		<name>DH.png</name>
+		<rotate>7</rotate>
+		<centerX>87</centerX>
+		<centerY>15</centerY>
+	</drawable>
+	<drawable>
+		<name>DH_1.png</name>
+		<rotate>3</rotate>
+		<centerX>-86</centerX>
+		<centerY>15</centerY>
+	</drawable>
+	<drawable>
+		<name>BH.png</name>
+		<rotate>6</rotate>
+		<centerY>90</centerY>
+	</drawable>
+	<drawable>
+		<name>MH.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>HH.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>SH.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.4.8.0'/>
+-->
+</clockskin>

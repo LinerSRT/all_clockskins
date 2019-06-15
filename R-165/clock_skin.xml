@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>fasfsf.png</name>
+	</drawable>
+	<drawable>
+		<name>1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>1</centerX>
+		<centerY>120</centerY>
+	</drawable>
+	<drawable>
+		<name>afsdf.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>asefrs.png</name>
+	</drawable>
+	<drawable>
+		<name>h.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-32</centerX>
+		<centerY>22</centerY>
+	</drawable>
+	<drawable>
+		<name>f_1.png</name>
+		<rotate>3</rotate>
+		<centerX>-72</centerX>
+		<centerY>-124</centerY>
+		<mulrotate>5</mulrotate>
+	</drawable>
+	<drawable>
+		<name>f_2.png</name>
+		<rotate>3</rotate>
+		<centerX>-10</centerX>
+		<centerY>-88</centerY>
+		<mulrotate>6</mulrotate>
+	</drawable>
+	<drawable>
+		<name>f_3.png</name>
+		<rotate>3</rotate>
+		<centerX>133</centerX>
+		<centerY>-57</centerY>
+		<mulrotate>5</mulrotate>
+	</drawable>
+	<drawable>
+		<name>f.png</name>
+		<rotate>3</rotate>
+		<centerX>-164</centerX>
+		<centerY>14</centerY>
+		<mulrotate>6</mulrotate>
+	</drawable>
+	<drawable>
+		<name>w_1.png</name>
+		<rotate>3</rotate>
+		<centerX>64</centerX>
+		<centerY>62</centerY>
+	</drawable>
+	<drawable>
+		<name>w_2.png</name>
+		<rotate>3</rotate>
+		<centerX>-130</centerX>
+		<centerY>-72</centerY>
+		<mulrotate>6</mulrotate>
+	</drawable>
+	<drawable>
+		<name>w_3.png</name>
+		<rotate>3</rotate>
+		<centerX>8</centerX>
+		<centerY>-174</centerY>
+		<mulrotate>6</mulrotate>
+	</drawable>
+	<drawable>
+		<name>w.png</name>
+		<rotate>3</rotate>
+		<centerX>161</centerX>
+		<centerY>25</centerY>
+		<mulrotate>6</mulrotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

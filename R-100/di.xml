@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<drawables>
+	<image>di_sun.png</image>
+	<image>di_mon.png</image>
+	<image>di_tue.png</image>
+	<image>di_wed.png</image>
+	<image>di_thu.png</image>
+	<image>di_fri.png</image>
+	<image>di_sat.png</image>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0' type='array_weekday' autoscale='1' font='长城黑体' fontstyle='Bold' fontsize='11.97077'>
+<content>周日</content>
+<content>周一</content>
+<content>周二</content>
+<content>周三</content>
+<content>周四</content>
+<content>周五</content>
+<content>周六</content>
+</metadata>
+-->
+</drawables>

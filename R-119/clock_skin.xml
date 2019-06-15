@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>a505d3791a2641df8f57eb182812e41a.png</name>
+	</drawable>
+	<drawable>
+		<name>47318ba1d498407eac484dd3a48a02b4.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>35be6c8726e6433299545894c67e6cf0.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>fce0dd31485346c5a9e93493ac3c4b01.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

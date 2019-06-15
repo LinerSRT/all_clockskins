@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>adsfdfs.png</name>
+	</drawable>
+	<drawable>
+		<name>hh_1_1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>13</centerX>
+		<centerY>-86</centerY>
+	</drawable>
+	<drawable>
+		<name>hh_1.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>83</centerX>
+		<centerY>35</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

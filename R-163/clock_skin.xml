@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>dfas.png</name>
+	</drawable>
+	<drawable>
+		<name>m.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>h.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>s.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<arraytype>99</arraytype>
+		<centerX>80</centerX>
+		<centerY>1</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

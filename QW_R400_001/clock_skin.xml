@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>Back.png</name>
+	</drawable>
+	<drawable>
+		<name>Model_3.png</name>
+	</drawable>
+	<drawable>
+		<name>array_day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>137</centerX>
+	</drawable>
+	<drawable>
+		<name>array_weekday.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>-135</centerX>
+		<centerY>-1</centerY>
+	</drawable>
+	<drawable>
+		<name>HH_3.png</name>
+		<rotate>1</rotate>
+		<centerY>-1</centerY>
+	</drawable>
+	<drawable>
+		<name>MH_2.png</name>
+		<rotate>2</rotate>
+		<centerY>-1</centerY>
+	</drawable>
+	<drawable>
+		<name>SH.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='2.0.0.2'/>
+-->
+</clockskin>

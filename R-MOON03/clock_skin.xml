@@ -1,0 +1,23 @@
+<clockskin>
+    <drawable>
+        <name>image1.png</name>
+    </drawable>
+    <drawable>
+        <name>digital1.xml</name>
+        <arraytype>6</arraytype>
+        <centerX>-156</centerX>
+        <centerY>-23</centerY>
+    </drawable>
+    <drawable>
+        <name>digital2.xml</name>
+        <arraytype>9</arraytype>
+        <centerX>-157</centerX>
+        <centerY>12</centerY>
+    </drawable>
+    <drawable>
+        <name>digital3.xml</name>
+        <arraytype>5</arraytype>
+        <centerX>-151</centerX>
+        <centerY>-56</centerY>
+    </drawable>
+</clockskin>

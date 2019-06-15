@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>clock_skin_panel.png</name>
+	</drawable>
+	<drawable>
+		<arraytype>99</arraytype>
+		<centerX>-26</centerX>
+		<centerY>102</centerY>
+	</drawable>
+	<drawable>
+		<name>clock_skin_hour_shadow.png</name>
+		<rotate>8</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_minute_shadow.png</name>
+		<rotate>9</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_second_shadow.png</name>
+		<rotate>10</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_second.png</name>
+		<rotate>3</rotate>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.1.1.0'/>
+-->
+</clockskin>

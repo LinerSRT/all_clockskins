@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>AGDSF.png</name>
+	</drawable>
+	<drawable>
+		<name>SDFAF.png</name>
+		<rotate>1</rotate>
+		<centerX>57</centerX>
+		<centerY>-99</centerY>
+	</drawable>
+	<drawable>
+		<name>FASF.png</name>
+		<rotate>2</rotate>
+		<centerX>57</centerX>
+		<centerY>-98</centerY>
+	</drawable>
+	<drawable>
+		<name>DSFAF.png</name>
+		<rotate>3</rotate>
+		<centerX>56</centerX>
+		<centerY>-101</centerY>
+	</drawable>
+	<drawable>
+		<name>DFSD.png</name>
+		<centerX>58</centerX>
+		<centerY>-100</centerY>
+	</drawable>
+	<drawable>
+		<name>e_1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-64</centerX>
+		<centerY>72</centerY>
+	</drawable>
+	<drawable>
+		<name>e_2.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>15</centerX>
+		<centerY>72</centerY>
+	</drawable>
+	<drawable>
+		<name>e.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>74</centerX>
+		<centerY>72</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

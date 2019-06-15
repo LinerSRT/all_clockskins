@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>sdfgcxvh.png</name>
+	</drawable>
+	<drawable>
+		<name>W.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>-2</centerX>
+		<centerY>-46</centerY>
+	</drawable>
+	<drawable>
+		<name>h_1.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>-26</centerX>
+		<centerY>-6</centerY>
+	</drawable>
+	<drawable>
+		<name>h.xml</name>
+		<arraytype>9</arraytype>
+		<centerX>50</centerX>
+		<centerY>-6</centerY>
+	</drawable>
+	<drawable>
+		<name>y.xml</name>
+		<arraytype>1</arraytype>
+		<centerX>-1</centerX>
+		<centerY>35</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

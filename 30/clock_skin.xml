@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+  <drawable>
+    <name>blade2_crop.png</name>
+    <rotate>3</rotate>
+    <direction>1</direction>
+    <mulrotate>2</mulrotate>
+  </drawable>
+  <drawable>
+    <name>imageedit_54_2454606141.png</name>
+  </drawable>
+  <drawable>
+    <name>imageedit_50_5055159453.png</name>
+    <centerX>-1</centerX>
+  </drawable>
+  <drawable>
+    <name>clock_skin_hour.png</name>
+    <rotate>8</rotate>
+    <direction>1</direction>
+  </drawable>
+  <drawable>
+    <name>hand_h.png</name>
+    <rotate>1</rotate>
+    <direction>1</direction>
+  </drawable>
+  <drawable>
+    <name>clock_skin_minute.png</name>
+    <rotate>3</rotate>
+    <direction>1</direction>
+  </drawable>
+  <drawable>
+    <name>hand_m.png</name>
+    <rotate>2</rotate>
+    <direction>1</direction>
+  </drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.0.1.0'/>
+-->
+</clockskin>

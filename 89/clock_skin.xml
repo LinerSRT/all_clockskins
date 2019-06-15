@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>img1502.png</name>
+	</drawable>
+	<drawable>
+		<name>h.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>m.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>s.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>x_1.png</name>
+		<rotate>6</rotate>
+		<centerX>-2</centerX>
+		<centerY>100</centerY>
+		<angle>-180</angle>
+	</drawable>
+	<drawable>
+		<name>x.png</name>
+		<rotate>6</rotate>
+		<centerX>-2</centerX>
+		<centerY>-100</centerY>
+		<angle>-180</angle>
+	</drawable>
+	<drawable>
+		<name>day.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>157</centerX>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.6.0.0'/>
+-->
+</clockskin>

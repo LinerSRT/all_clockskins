@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>bowl.png</name>
+	</drawable>
+	<drawable>
+		<name>1.png</name>
+		<centerX>-20</centerX>
+		<centerY>-166</centerY>
+	</drawable>
+	<drawable>
+		<name>2.png</name>
+		<centerX>20</centerX>
+		<centerY>-166</centerY>
+	</drawable>
+	<drawable>
+		<name>6.png</name>
+		<centerY>166</centerY>
+	</drawable>
+	<drawable>
+		<name>3.png</name>
+		<centerX>166</centerX>
+	</drawable>
+	<drawable>
+		<name>9.png</name>
+		<centerX>-166</centerX>
+	</drawable>
+	<drawable>
+		<name>woodhands hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>woodhands min.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>woodhands sec.png</name>
+		<rotate>3</rotate>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons_1.png</name>
+		<centerX>-146</centerX>
+		<centerY>90</centerY>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons_2.png</name>
+		<centerX>-84</centerX>
+		<centerY>143</centerY>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons_3.png</name>
+		<centerX>146</centerX>
+		<centerY>89</centerY>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons_4.png</name>
+		<centerX>145</centerX>
+		<centerY>-89</centerY>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons_5.png</name>
+		<centerX>84</centerX>
+		<centerY>143</centerY>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons_6.png</name>
+		<centerX>83</centerX>
+		<centerY>-143</centerY>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons_7.png</name>
+		<centerX>-83</centerX>
+		<centerY>-143</centerY>
+	</drawable>
+	<drawable>
+		<name>018987-glossy-waxed-wood-icon-symbols-shapes-shape-stop-buttons.png</name>
+		<centerX>-145</centerX>
+		<centerY>-90</centerY>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.2.0.0'/>
+-->
+</clockskin>
